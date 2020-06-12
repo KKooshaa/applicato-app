@@ -1,0 +1,367 @@
+[{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101627"
+  },
+  "name": "United States of America",
+  "continent": "North America",
+  "capitalName": "Washington, D.C.",
+  "numOfUniversities": 2,
+  "universities": [
+    "The University of Chicago",
+    "Stanford University"
+  ],
+  "population": 328.2,
+  "officialLanguage": "English",
+  "description": "",
+  "pName": "ایالات متحده‌ی آمریکا",
+  "pContinent": "آمریکای شمالی",
+  "pCapitalName": "واشنگتن",
+  "pUniversities": [
+    "دانشگاه شیکاگو",
+    "دانشگاه استنفورد"
+  ],
+  "pOfficialLanguage": "انگلیسی",
+  "pDescription": "",
+  "hdiRank": "15",
+  "hdiIndex": "0.920",
+  "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-800.png",
+  "image": "https://www.gosunshinetours.com/wp-content/uploads/2020/01/Capital-Building.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101628"
+  },
+  "name": "Singapore",
+  "continent": "Asia",
+  "capitalName": "Singapore",
+  "numOfUniversities": 1,
+  "universities": [
+    "National University of Singapore"
+  ],
+  "population": 5.639,
+  "officialLanguage": "English, Malay, Mandarin, Tamil",
+  "description": "",
+  "pName": "سنگاپور",
+  "pContinent": "آسیا",
+  "pCapitalName": "ُسنگاپور",
+  "pUniversities": [
+    "دانشگاه ملی سنگاپور"
+  ],
+  "pOfficialLanguage": "انگلیسی و مالایا و ماندارین و تامیل",
+  "pDescription": "",
+  "hdiRank": "9",
+  "hdiIndex": "0.935",
+  "flag": "https://cdn.countryflags.com/thumbs/singapore/flag-800.png",
+  "image": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/Singapore/singapore-destination-guide-lead.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101629"
+  },
+  "name": "Netherlands",
+  "continent": "Europe",
+  "capitalName": "Amsterdam",
+  "numOfUniversities": 1,
+  "universities": [
+    "University of Amsterdam"
+  ],
+  "population": 17.28,
+  "officialLanguage": "Dutch",
+  "description": "",
+  "pName": "هلند",
+  "pContinent": "اروپا",
+  "pCapitalName": "آمستردام",
+  "pUniversities": [
+    "دانشگاه آمستردام"
+  ],
+  "pOfficialLanguage": "هلندی",
+  "pDescription": "",
+  "hdiRank": "10",
+  "hdiIndex": "0.933",
+  "flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-800.png",
+  "image": "https://allhours.com/wp-content/uploads/2018/10/netherlands.jpeg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162a"
+  },
+  "name": "Australia",
+  "continent": "Australia",
+  "capitalName": "Canberra",
+  "numOfUniversities": 1,
+  "universities": [
+    "The University of Queensland"
+  ],
+  "population": 24.99,
+  "officialLanguage": "Australian English",
+  "description": "",
+  "pName": "استرالیا",
+  "pContinent": "استرالیا",
+  "pCapitalName": "کانبرا",
+  "pUniversities": [
+    "دانشگاه کوئینزلند"
+  ],
+  "pOfficialLanguage": "انگلیسی استرالیایی",
+  "pDescription": "",
+  "hdiRank": "6",
+  "hdiIndex": "0.938",
+  "flag": "https://cdn.countryflags.com/thumbs/australia/flag-400.png",
+  "image": "https://dvh1deh6tagwk.cloudfront.net/finder-au/wp-uploads/2020/03/Canberra_GettyImage_1536x864.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162b"
+  },
+  "name": "Egypt",
+  "continent": "Africa",
+  "capitalName": "cairo",
+  "numOfUniversities": 1,
+  "universities": [
+    "Cairo University"
+  ],
+  "population": 98.42,
+  "officialLanguage": "Modern Standard Arabic",
+  "description": "",
+  "pName": "مصر",
+  "pContinent": "آفریقا",
+  "pCapitalName": "قاهره",
+  "pUniversities": [
+    "دانشگاه قاهره"
+  ],
+  "pOfficialLanguage": "عربی جدید استاندارد",
+  "pDescription": "",
+  "hdiRank": "116",
+  "hdiIndex": "0.700",
+  "flag": "https://cdn.countryflags.com/thumbs/egypt/flag-800.png",
+  "image": "https://www.dublinairport.com/images/default-source/flight-images/downtown-cairo.jpg?sfvrsn=a69e34f1_1"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162c"
+  },
+  "name": "Chile",
+  "continent": "South America",
+  "capitalName": "Santiago",
+  "numOfUniversities": 1,
+  "universities": [
+    "University of Chile"
+  ],
+  "population": 18.73,
+  "officialLanguage": "Spanish",
+  "description": "",
+  "pName": "شیلی",
+  "pContinent": "آمریکای جنوبی",
+  "pCapitalName": "سانتیاگو",
+  "pUniversities": [
+    "دانشگاه شیلی"
+  ],
+  "pOfficialLanguage": "اسپانیایی",
+  "pDescription": "",
+  "hdiRank": "42",
+  "hdiIndex": "0.847",
+  "flag": "https://cdn.countryflags.com/thumbs/chile/flag-800.png",
+  "image": "https://www.nationalgeographic.com/content/dam/travel/2016-digital/chile/santiago/night-andes-mountains-santiago-chile.ngsversion.1483563605094.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162d"
+  },
+  "name": "Germany",
+  "continent": "Europe",
+  "capitalName": "Berlin",
+  "numOfUniversities": 1,
+  "universities": [
+    "LMU Munich"
+  ],
+  "population": 83.02,
+  "officialLanguage": "German",
+  "description": "",
+  "pName": "آلمان",
+  "pContinent": "اروپا",
+  "pCapitalName": "برلین",
+  "pUniversities": [
+    "دانشگاه لودویگ ماکسیمیلیان مونیخ"
+  ],
+  "pOfficialLanguage": "آلمانی",
+  "pDescription": "",
+  "hdiRank": "4",
+  "hdiIndex": "0.939",
+  "flag": "https://cdn.countryflags.com/thumbs/germany/flag-800.png",
+  "image": "https://www.holoniq.com/wp-content/uploads/2019/07/Berlin-Skyline-City-Panorama-with-blue-sky-sunset-and-traffic-506977131_1337x786.jpeg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162e"
+  },
+  "name": "Canada",
+  "continent": "North America",
+  "capitalName": "Ottawa",
+  "numOfUniversities": 1,
+  "universities": [
+    "Laval University"
+  ],
+  "population": 37.59,
+  "officialLanguage": "English, French",
+  "description": "",
+  "pName": "کانادا",
+  "pContinent": "آمریکای شمالی",
+  "pCapitalName": "اوتاوا",
+  "pUniversities": [
+    "دانشگاه لاوال"
+  ],
+  "pOfficialLanguage": "انگلیسی و فرانسوی",
+  "pDescription": "",
+  "hdiRank": "13",
+  "hdiIndex": "0.922",
+  "flag": "https://cdn.countryflags.com/thumbs/canada/flag-800.png",
+  "image": "https://cdn.wallpapersafari.com/30/16/fYEg0W.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc10162f"
+  },
+  "name": "South Africa",
+  "continent": "Africa",
+  "capitalName": "Cape Town, Pretoria, Bloemfontein",
+  "numOfUniversities": 1,
+  "universities": [
+    "University of Cape Town"
+  ],
+  "population": 57.78,
+  "officialLanguage": "Afrikaans, English, Zulu, Xhosa, Venda, Southern Sotho, Tswana, Tsonga, Northern Sotho, Swati, Ndebele",
+  "description": "",
+  "pName": "آفریقای جنوبی",
+  "pContinent": "آفریقا",
+  "pCapitalName": "کیپ تاون و پرتوریا و بلوم فونتین",
+  "pUniversities": [
+    "دانشگاه کیپ تاون"
+  ],
+  "pOfficialLanguage": "زبان فاناگالو، زبان خوئی، زبان لوبدو",
+  "pDescription": "",
+  "hdiRank": "113",
+  "hdiIndex": "0.705",
+  "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-800.png",
+  "image": "https://cdn.britannica.com/42/126842-050-0803BC41/Sea-Point-Cape-Town-SAf.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101630"
+  },
+  "name": "Japan",
+  "continent": "Asia",
+  "capitalName": "Tokyo",
+  "numOfUniversities": 1,
+  "universities": [
+    "Kyoto University"
+  ],
+  "population": 126.5,
+  "officialLanguage": "Japanese",
+  "description": "",
+  "pName": "ژاپن",
+  "pContinent": "آسیا",
+  "pCapitalName": "توکیو",
+  "pUniversities": [
+    "دانشگاه کیوتو"
+  ],
+  "pOfficialLanguage": "ژاپنی",
+  "pDescription": "",
+  "hdiRank": "19",
+  "hdiIndex": "0.915",
+  "flag": "https://cdn.countryflags.com/thumbs/japan/flag-800.png",
+  "image": "https://lp-cms-production.imgix.net/2019-06/512d769cd0d5e56c238eb975d2325940-japan.jpeg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101631"
+  },
+  "name": "England",
+  "continent": "Europe",
+  "capitalName": "London",
+  "numOfUniversities": 1,
+  "universities": [
+    "University of Bristol"
+  ],
+  "population": 55.98,
+  "officialLanguage": "English",
+  "description": "",
+  "pName": "انگلستان",
+  "pContinent": "اروپا",
+  "pCapitalName": "لندن",
+  "pUniversities": [
+    "دانشگاه بریستول"
+  ],
+  "pOfficialLanguage": "انگلیسی",
+  "pDescription": "",
+  "hdiRank": "15",
+  "hdiIndex": "0.920",
+  "flag": "https://cdn.countryflags.com/thumbs/united-kingdom/flag-800.png",
+  "image": "https://lp-cms-production.imgix.net/2019-06/55425108.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101632"
+  },
+  "name": "China",
+  "continent": "Asia",
+  "capitalName": "Beijing",
+  "numOfUniversities": 1,
+  "universities": [
+    "Tsinghua University"
+  ],
+  "population": null,
+  "officialLanguage": "Mandarin",
+  "description": "",
+  "pName": "چین",
+  "pContinent": "آسیا",
+  "pCapitalName": "پکن",
+  "pUniversities": [
+    "دانشگاه چینهوآ"
+  ],
+  "pOfficialLanguage": "ماندارین",
+  "pDescription": "",
+  "hdiRank": "85",
+  "hdiIndex": "0.758",
+  "flag": "https://cdn.countryflags.com/thumbs/china/flag-800.png",
+  "image": "https://www.fly4free.com/wp-content/uploads/2017/10/ST_Chengdu-2.jpg"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101633"
+  },
+  "name": "New Zealand",
+  "continent": "Oceania",
+  "capitalName": "Wellington",
+  "numOfUniversities": 1,
+  "universities": [
+    "The University of Auckland"
+  ],
+  "population": 4.886,
+  "officialLanguage": "Māori, English",
+  "description": "",
+  "pName": "نیوزیلند",
+  "pContinent": "اقیانوسیه",
+  "pCapitalName": "ولینگتون",
+  "pUniversities": [
+    "دانشگاه آوکلند"
+  ],
+  "pOfficialLanguage": "مائوری و انگلیسی",
+  "pDescription": "",
+  "hdiRank": "14",
+  "hdiIndex": "0.921",
+  "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-800.png",
+  "image": "https://images.arcadis.com/media/F/E/E/%7BFEE1E18B-BA41-4094-9F74-4FAA5D5F623E%7DSydney%20Skyline.jpg?width=1920&height=0&mode=crop&anchor=top"
+},{
+  "_id": {
+    "$oid": "5ee28ab6d6c18e0ffc101634"
+  },
+  "name": "Brazil",
+  "continent": "South America",
+  "capitalName": "Brasilia",
+  "numOfUniversities": 1,
+  "universities": [
+    "University of São Paulo"
+  ],
+  "population": 209.5,
+  "officialLanguage": "Portuguese",
+  "description": "",
+  "pName": "برزیل",
+  "pContinent": "آمریکای جنوبی",
+  "pCapitalName": "برازیلیا",
+  "pUniversities": [
+    "دانشگاه سائو پائولو"
+  ],
+  "pOfficialLanguage": "پرتغالی",
+  "pDescription": "",
+  "hdiRank": "79",
+  "hdiIndex": "0.761",
+  "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-800.png",
+  "image": "https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2014/11/13110217/Rio.jpg"
+}]
