@@ -44,7 +44,7 @@
     "mongoose-sequence": "^5.2.2",
     "morgan": "^1.10.0",
     "multer": "^1.4.2",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "nyc": "^15.0.1",
     "redis": "^3.0.2",
     "redis-server": "^1.2.2"
